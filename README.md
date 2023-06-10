@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thesmartchoes63@gmail.com**
 
-- ⚡ Fun fact **Active Sports person!**
+- ⚡ Fun fact About me : **Active Sports person!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
