@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Fresher**
+- 🔭 I’m currently working as **Fresher**
 
 - 🌱 I’m currently learning **Javascript,React**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HMT/CSS/JS**
 
 - 📫 How to reach me **thesmartchoes63@gmail.com**
 
