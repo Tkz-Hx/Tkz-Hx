@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working as **Fresher**
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **React-Native**
 
-- 💬 Ask me about **HMT/CSS/JS**
+- 💬 Ask me about **HMT/CSS/JS/REACT**
 
 - 📫 How to reach me **thesmartchoes63@gmail.com**
 
