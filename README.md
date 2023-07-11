@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HMT/CSS/JS/REACT**
 
-- 📫 How to reach me **thesmartchoes63@gmail.com**
+- 📫 How to reach me **tkzdeveloper@gmail.com**
 
 - ⚡ Fun fact About me : **Active Sports person!**
 
